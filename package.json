@@ -12,6 +12,10 @@
     "test": "vitest --coverage"
   },
   "dependencies": {
+    "@heroui/switch": "^2.2.9",
+    "@heroui/system": "^2.4.7",
+    "@heroui/theme": "^2.4.6",
+    "framer-motion": "^12.4.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
